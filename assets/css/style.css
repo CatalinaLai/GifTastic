@@ -1,0 +1,57 @@
+body {
+    background: url("http://media.istockphoto.com/photos/cooking-and-baking-ingredients-egg-flour-brown-sugar-almonds-over-picture-id666155862?k=6&m=666155862&s=612x612&w=0&h=7IluqCuvtaF3ZLEaTzewRtRcGho9BPnI9Sp5tCiVPXk=") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    line-height: 100px;
+}
+
+h1 {
+    font-family: 'Butterfly Kids', cursive;
+}
+
+.ratings {
+    color: white;
+    font-family: avenir;
+    font-size: 18px;
+    text-shadow: 2px 2px blue;
+    margin-left: 70px;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    text-shadow: 2px 2px blue;
+}
+
+.btn-primary {
+    margin-left: 80px;
+    background: white;
+    color: blue;
+    
+}
+
+.form-control {
+    width: 50%;
+    margin-left: 272px; 
+}
+
+#add {
+    font-size: 20px;
+    color: white;
+}
+
+#cooking-form {
+    text-align: center;
+    text-shadow: 2px 2px blue;
+}
+
+button {
+    margin-left: 525px;
+}
+
+.col-md-4 {
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
